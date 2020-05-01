@@ -11,6 +11,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [wadb](https://github.com/GoogleChromeLabs/wadb/) - Android Debug Bridge (ADB) protocol library
 * [webadb.js](https://github.com/webadb/webadb.js) - Android Debug Bridge (ADB) protocol library
 * [WebUSB Arduino](https://github.com/webusb/arduino) - Fork of the Arduino software serial library with WebUSB support
+* [TinyUSB](https://github.com/hathach/tinyusb) - An open source USB stack supporting WebUSB with vendor-specific class
 
 ## Applications
 
@@ -25,12 +26,16 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 ## Blog Posts
 
 * 2020-03-26: [The Web MiniDisc Application](https://stefano.brilli.me/blog/web-minidisc/)
+* 2020-01-15: [Using WebUSB with the Adafruit Circuit Playground Express](https://blog.adafruit.com/2020/01/15/using-webusb-with-the-adafruit-circuit-playground-express-circuitplaygroundexpress-webusb-msmakecode/)
+* 2019-07-30: [WebUSB is here! TinyUSB now has WebUSB support at Adafruit](https://blog.adafruit.com/2019/07/30/webusb-is-here-tinyusb-now-has-webusb-support-at-adafruit-tinyusb-tinyusb-webusb-chrome-googlechrome-adafruit-reillyeon-arduino/)
 * 2017-12-01: [Writing a device updater? Seriously consider WebUSB!](https://www.numworks.com/blog/webusb-firmware-update/)
 
 ## Tutorials
 
 * [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
 * [Building a Device for WebUSB](https://developers.google.com/web/fundamentals/native-hardware/build-for-webusb)
+* [Using WebUSB with Arduino and TinyUSB](https://learn.adafruit.com/using-webusb-with-arduino-and-tinyusb)
+* [Machine Learning with Marshmallows and Tiny Sorter](https://learn.adafruit.com/machine-learning-with-marshmallows-and-tiny-sorter)
 
 ## General USB Resources
 
