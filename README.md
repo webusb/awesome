@@ -20,6 +20,10 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [Firia Labs Codespace](https://make.firialabs.com) - Build and upload code to FiriaLabs educational devices
 * [NumWorks Workshop](https://workshop.numworks.com) - Update firmware on your NumWorks calculator and load Python applications
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
+
+## Demos
+
+* [Progressive Web Boy](https://glitch.com/~progressive-web-boy) - A web technologies port of the GameBoy Camera and Printer which prints photos via WebUSB
 * [Web MiniDisc](https://stefano.brilli.me/webminidisc/) - Transfer music to a Minidisc
 * [WebADB Screenrecord](https://bandarra.me/projects/webusb/screenrecord.html) - Record the screen on your Android device
 * [WebDFU](https://devanlai.github.io/webdfu/dfu-util/) - Upload firmware to USB DFU-compatible devices
