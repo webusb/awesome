@@ -22,6 +22,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
 * [Web MiniDisc](https://stefano.brilli.me/webminidisc/) - Transfer music to a Minidisc
 * [WebADB Screenrecord](https://bandarra.me/projects/webusb/screenrecord.html) - Record the screen on your Android device
+* [WebDFU](https://devanlai.github.io/webdfu/dfu-util/) - Upload firmware to USB DFU-compatible devices
 
 ## Blog Posts
 
