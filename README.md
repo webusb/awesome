@@ -21,7 +21,6 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [NumWorks Workshop](https://workshop.numworks.com) - Update firmware on your NumWorks calculator and load Python applications
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
 
-
 ## Demos
 
 * [Progressive Web Boy](https://glitch.com/~progressive-web-boy) - A web technologies port of the GameBoy Camera and Printer which prints photos via WebUSB
