@@ -21,6 +21,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
 * [Web MiniDisc](https://stefano.brilli.me/webminidisc/) - Transfer music to a Minidisc
 * [WebADB Screenrecord](https://bandarra.me/projects/webusb/screenrecord.html) - Record the screen on your Android device
+* [Progressive Web Boy](https://glitch.com/~progressive-web-boy) - A web technologies port of the GameBoy Camera and Printer which prints photos via WebUSB
 
 ## Blog Posts
 
