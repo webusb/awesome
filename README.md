@@ -7,11 +7,11 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 ## Libraries
 
 * [netmd-js](https://github.com/cybercase/netmd-js/) - Typescript library to access NetMD MiniDisc devices
+* [TinyUSB](https://github.com/hathach/tinyusb) - An open source USB stack supporting WebUSB with vendor-specific class
 * [usbd-webusb](https://crates.io/crates/usbd-webusb) - WebUSB implementation for [usb-device](https://crates.io/crates/usb-device) (Rust)
 * [wadb](https://github.com/GoogleChromeLabs/wadb/) - Android Debug Bridge (ADB) protocol library
 * [webadb.js](https://github.com/webadb/webadb.js) - Android Debug Bridge (ADB) protocol library
 * [WebUSB Arduino](https://github.com/webusb/arduino) - Fork of the Arduino software serial library with WebUSB support
-* [TinyUSB](https://github.com/hathach/tinyusb) - An open source USB stack supporting WebUSB with vendor-specific class
 
 ## Applications
 
