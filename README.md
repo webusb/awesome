@@ -18,6 +18,11 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [Android Flash Tool](https://flash.android.com/) - Flash official Android builds to your device
 * [ErgoDox EZ Configurator](https://configure.ergodox-ez.com/train) - Configure layouts on your ErgoDox keyboard
 * [Firia Labs Codespace](https://make.firialabs.com) - Build and upload code to FiriaLabs educational devices
+* [GrapheneOS Web Install](https://grapheneos.org/install/web) - Android-based, security-hardened, privacy focused OS flash tool
+* [MakeCode](https://www.microsoft.com/en-us/makecode) - Computer Science Education development environment used with multiple devices
+  * [AdaFruit Circuit Playground](https://makecode.adafruit.com/)
+  * [Arcade](https://arcade.makecode.com/)
+  * [BBC micro:bit](https://makecode.microbit.org/)
 * [NumWorks Workshop](https://workshop.numworks.com) - Update firmware on your NumWorks calculator and load Python applications
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
 
