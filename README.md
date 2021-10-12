@@ -7,6 +7,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 ## Libraries
 
 * [netmd-js](https://github.com/cybercase/netmd-js/) - Typescript library to access NetMD MiniDisc devices
+* [ticalc-usb](https://github.com/Timendus/ticalc-usb) - A library to communicate with TI graphing calculators
 * [TinyUSB](https://github.com/hathach/tinyusb) - An open source USB stack supporting WebUSB with vendor-specific class
 * [usbd-webusb](https://crates.io/crates/usbd-webusb) - WebUSB implementation for [usb-device](https://crates.io/crates/usb-device) (Rust)
 * [wadb](https://github.com/GoogleChromeLabs/wadb/) - Android Debug Bridge (ADB) protocol library
@@ -24,6 +25,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
   * [Arcade](https://arcade.makecode.com/)
   * [BBC micro:bit](https://makecode.microbit.org/)
 * [NumWorks Workshop](https://workshop.numworks.com) - Update firmware on your NumWorks calculator and load Python applications
+* [TI-Nspire CX II Connect](https://education.ti.com/en/products/computer-software/ti-nspire-cx-ii-connect) - Connects a TI-Nspire CX II family graphing calculator to your computer
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
 
 ## Demos
