@@ -32,11 +32,11 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 ## Demos
 
 * [Progressive Web Boy](https://glitch.com/~progressive-web-boy) - A web technologies port of the GameBoy Camera and Printer which prints photos via WebUSB
+* [tesla-opener](https://xakcop.com/tesla-opener/) - Open the Tesla charging port with HackRF
 * [Web MiniDisc](https://stefano.brilli.me/webminidisc/) - Transfer music to a Minidisc
 * [WebADB Screenrecord](https://bandarra.me/projects/webusb/screenrecord.html) - Record the screen on your Android device
 * [WebDFU](https://devanlai.github.io/webdfu/dfu-util/) - Upload firmware to USB DFU-compatible devices
 * [WebUSBTMC](https://webusbtmc.net/) - Control test and measurement instruments on your browser
-* [tesla-opener](https://xakcop.com/tesla-opener/) - Open the Tesla charging port with HackRF
 
 ## Blog Posts
 
