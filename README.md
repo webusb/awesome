@@ -39,6 +39,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [WebADB Screenrecord](https://bandarra.me/projects/webusb/screenrecord.html) - Record the screen on your Android device
 * [WebDFU](https://devanlai.github.io/webdfu/dfu-util/) - Upload firmware to USB DFU-compatible devices
 * [WebUSBTMC](https://webusbtmc.net/) - Control test and measurement instruments on your browser
+* [WebUSB KVM](https://kkocdko.site/toy/webusbkvm) - USB KVM (Keyboard Video Mouse) client. With CH9329 chip.
 
 ## Blog Posts
 
