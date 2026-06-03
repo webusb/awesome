@@ -20,6 +20,9 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 * [ErgoDox EZ Configurator](https://configure.ergodox-ez.com/train) - Configure layouts on your ErgoDox keyboard
 * [Firia Labs Codespace](https://make.firialabs.com) - Build and upload code to FiriaLabs educational devices
 * [GrapheneOS Web Install](https://grapheneos.org/install/web) - Android-based, security-hardened, privacy focused OS flash tool
+* [Labs16](https://labs16.com/) - Hardware Configuration Tools for Builders and Embedded Developers
+  * [Dongle King](https://dk.labs16.com/) - Quick I2C/SPI communication with commercial dongles and target hardware
+  * [UXB-300](https://uxb-300.labs16.com/) - Register-level GUI builder for ICs using model-driven configuration
 * [MakeCode](https://www.microsoft.com/en-us/makecode) - Computer Science Education development environment used with multiple devices
   * [AdaFruit Circuit Playground](https://makecode.adafruit.com/)
   * [Arcade](https://arcade.makecode.com/)
