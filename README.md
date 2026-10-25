@@ -29,6 +29,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
   * [BBC micro:bit](https://makecode.microbit.org/)
 * [Meta Quest Software Update Tool](https://www.meta.com/help/quest/software_update/)
 * [NumWorks Workshop](https://workshop.numworks.com) - Update firmware on your NumWorks calculator and load Python applications
+* [RemoveAndroidAI](https://maximilianfeix.github.io/RemoveAndroidAI/) - Turn off on-device AI packages (Gemini, AICore, Galaxy AI) on an Android phone over WebADB, with undo
 * [Stemplayer](https://www.stemplayer.com/) - an audio remix device and music streaming platform developed by British technology company Kano Computing.
 * [TI-Nspire CX II Connect](https://education.ti.com/en/products/computer-software/ti-nspire-cx-ii-connect) - Connects a TI-Nspire CX II family graphing calculator to your computer
 * [Vyzor](https://app.vysor.io) - Mirror your Android device to your desktop
