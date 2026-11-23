@@ -18,6 +18,7 @@ List of awesome [WebUSB](https://wicg.github.io/webusb) applications, libraries 
 
 * [Android Flash Tool](https://flash.android.com/) - Flash official Android builds to your device
 * [BenchFleet Phone Mirror](https://chromewebstore.google.com/detail/benchfleet-phone-mirror-c/hcnjmijkfmhabebacoleiiaeooibaplc) - Chrome extension that mirrors and controls an Android phone over ADB in a browser tab
+* [Droid File Transfer](https://www.droidfiletransfer.com/) - Copy files to and from an Android phone over MTP
 * [ErgoDox EZ Configurator](https://configure.ergodox-ez.com/train) - Configure layouts on your ErgoDox keyboard
 * [Firia Labs Codespace](https://make.firialabs.com) - Build and upload code to FiriaLabs educational devices
 * [GrapheneOS Web Install](https://grapheneos.org/install/web) - Android-based, security-hardened, privacy focused OS flash tool
